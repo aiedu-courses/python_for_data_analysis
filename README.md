@@ -1,2 +1,2 @@
-# python_for_data_analysis
-Курс "Python для анализа данных"
+# Курс "Python для анализа данных"
+...
